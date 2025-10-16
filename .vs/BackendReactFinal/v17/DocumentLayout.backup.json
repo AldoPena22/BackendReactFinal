@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{341D69E1-7BCD-40DD-8CE1-1B148F8F7F8B}|BackendReactFinal\\BackendReactFinal.csproj|c:\\users\\aldo.pena\\source\\repos\\backendreactfinal\\backendreactfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341D69E1-7BCD-40DD-8CE1-1B148F8F7F8B}|BackendReactFinal\\BackendReactFinal.csproj|solutionrelative:backendreactfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341D69E1-7BCD-40DD-8CE1-1B148F8F7F8B}|BackendReactFinal\\BackendReactFinal.csproj|c:\\users\\aldo.pena\\source\\repos\\backendreactfinal\\backendreactfinal\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341D69E1-7BCD-40DD-8CE1-1B148F8F7F8B}|BackendReactFinal\\BackendReactFinal.csproj|solutionrelative:backendreactfinal\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341D69E1-7BCD-40DD-8CE1-1B148F8F7F8B}|BackendReactFinal\\BackendReactFinal.csproj|c:\\users\\aldo.pena\\source\\repos\\backendreactfinal\\backendreactfinal\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341D69E1-7BCD-40DD-8CE1-1B148F8F7F8B}|BackendReactFinal\\BackendReactFinal.csproj|solutionrelative:backendreactfinal\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\Migrations\\20251010040216_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BackendReactFinal\\Migrations\\20251010040216_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341D69E1-7BCD-40DD-8CE1-1B148F8F7F8B}|BackendReactFinal\\BackendReactFinal.csproj|c:\\users\\aldo.pena\\source\\repos\\backendreactfinal\\backendreactfinal\\services\\implementations\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341D69E1-7BCD-40DD-8CE1-1B148F8F7F8B}|BackendReactFinal\\BackendReactFinal.csproj|solutionrelative:backendreactfinal\\services\\implementations\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341D69E1-7BCD-40DD-8CE1-1B148F8F7F8B}|BackendReactFinal\\BackendReactFinal.csproj|c:\\users\\aldo.pena\\source\\repos\\backendreactfinal\\backendreactfinal\\model\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341D69E1-7BCD-40DD-8CE1-1B148F8F7F8B}|BackendReactFinal\\BackendReactFinal.csproj|solutionrelative:backendreactfinal\\model\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341D69E1-7BCD-40DD-8CE1-1B148F8F7F8B}|BackendReactFinal\\BackendReactFinal.csproj|c:\\users\\aldo.pena\\source\\repos\\backendreactfinal\\backendreactfinal\\services\\implementations\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341D69E1-7BCD-40DD-8CE1-1B148F8F7F8B}|BackendReactFinal\\BackendReactFinal.csproj|solutionrelative:backendreactfinal\\services\\implementations\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341D69E1-7BCD-40DD-8CE1-1B148F8F7F8B}|BackendReactFinal\\BackendReactFinal.csproj|c:\\users\\aldo.pena\\source\\repos\\backendreactfinal\\backendreactfinal\\services\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341D69E1-7BCD-40DD-8CE1-1B148F8F7F8B}|BackendReactFinal\\BackendReactFinal.csproj|solutionrelative:backendreactfinal\\services\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341D69E1-7BCD-40DD-8CE1-1B148F8F7F8B}|BackendReactFinal\\BackendReactFinal.csproj|c:\\users\\aldo.pena\\source\\repos\\backendreactfinal\\backendreactfinal\\services\\interfaces\\igenreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341D69E1-7BCD-40DD-8CE1-1B148F8F7F8B}|BackendReactFinal\\BackendReactFinal.csproj|solutionrelative:backendreactfinal\\services\\interfaces\\igenreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341D69E1-7BCD-40DD-8CE1-1B148F8F7F8B}|BackendReactFinal\\BackendReactFinal.csproj|c:\\users\\aldo.pena\\source\\repos\\backendreactfinal\\backendreactfinal\\backendreactfinal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{341D69E1-7BCD-40DD-8CE1-1B148F8F7F8B}|BackendReactFinal\\BackendReactFinal.csproj|solutionrelative:backendreactfinal\\backendreactfinal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341D69E1-7BCD-40DD-8CE1-1B148F8F7F8B}|BackendReactFinal\\BackendReactFinal.csproj|c:\\users\\aldo.pena\\source\\repos\\backendreactfinal\\backendreactfinal\\model\\dtos\\movie\\movieresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341D69E1-7BCD-40DD-8CE1-1B148F8F7F8B}|BackendReactFinal\\BackendReactFinal.csproj|solutionrelative:backendreactfinal\\model\\dtos\\movie\\movieresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341D69E1-7BCD-40DD-8CE1-1B148F8F7F8B}|BackendReactFinal\\BackendReactFinal.csproj|c:\\users\\aldo.pena\\source\\repos\\backendreactfinal\\backendreactfinal\\model\\dtos\\movie\\moviecatalogresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341D69E1-7BCD-40DD-8CE1-1B148F8F7F8B}|BackendReactFinal\\BackendReactFinal.csproj|solutionrelative:backendreactfinal\\model\\dtos\\movie\\moviecatalogresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341D69E1-7BCD-40DD-8CE1-1B148F8F7F8B}|BackendReactFinal\\BackendReactFinal.csproj|c:\\users\\aldo.pena\\source\\repos\\backendreactfinal\\backendreactfinal\\model\\dtos\\genre\\genreupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341D69E1-7BCD-40DD-8CE1-1B148F8F7F8B}|BackendReactFinal\\BackendReactFinal.csproj|solutionrelative:backendreactfinal\\model\\dtos\\genre\\genreupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341D69E1-7BCD-40DD-8CE1-1B148F8F7F8B}|BackendReactFinal\\BackendReactFinal.csproj|c:\\users\\aldo.pena\\source\\repos\\backendreactfinal\\backendreactfinal\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341D69E1-7BCD-40DD-8CE1-1B148F8F7F8B}|BackendReactFinal\\BackendReactFinal.csproj|solutionrelative:backendreactfinal\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341D69E1-7BCD-40DD-8CE1-1B148F8F7F8B}|BackendReactFinal\\BackendReactFinal.csproj|c:\\users\\aldo.pena\\source\\repos\\backendreactfinal\\backendreactfinal\\model\\entities\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341D69E1-7BCD-40DD-8CE1-1B148F8F7F8B}|BackendReactFinal\\BackendReactFinal.csproj|solutionrelative:backendreactfinal\\model\\entities\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341D69E1-7BCD-40DD-8CE1-1B148F8F7F8B}|BackendReactFinal\\BackendReactFinal.csproj|c:\\users\\aldo.pena\\source\\repos\\backendreactfinal\\backendreactfinal\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341D69E1-7BCD-40DD-8CE1-1B148F8F7F8B}|BackendReactFinal\\BackendReactFinal.csproj|solutionrelative:backendreactfinal\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341D69E1-7BCD-40DD-8CE1-1B148F8F7F8B}|BackendReactFinal\\BackendReactFinal.csproj|c:\\users\\aldo.pena\\source\\repos\\backendreactfinal\\backendreactfinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{341D69E1-7BCD-40DD-8CE1-1B148F8F7F8B}|BackendReactFinal\\BackendReactFinal.csproj|solutionrelative:backendreactfinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341D69E1-7BCD-40DD-8CE1-1B148F8F7F8B}|BackendReactFinal\\BackendReactFinal.csproj|c:\\users\\aldo.pena\\source\\repos\\backendreactfinal\\backendreactfinal\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341D69E1-7BCD-40DD-8CE1-1B148F8F7F8B}|BackendReactFinal\\BackendReactFinal.csproj|solutionrelative:backendreactfinal\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341D69E1-7BCD-40DD-8CE1-1B148F8F7F8B}|BackendReactFinal\\BackendReactFinal.csproj|c:\\users\\aldo.pena\\source\\repos\\backendreactfinal\\backendreactfinal\\model\\entities\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341D69E1-7BCD-40DD-8CE1-1B148F8F7F8B}|BackendReactFinal\\BackendReactFinal.csproj|solutionrelative:backendreactfinal\\model\\entities\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341D69E1-7BCD-40DD-8CE1-1B148F8F7F8B}|BackendReactFinal\\BackendReactFinal.csproj|c:\\users\\aldo.pena\\source\\repos\\backendreactfinal\\backendreactfinal\\model\\entities\\movieactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341D69E1-7BCD-40DD-8CE1-1B148F8F7F8B}|BackendReactFinal\\BackendReactFinal.csproj|solutionrelative:backendreactfinal\\model\\entities\\movieactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341D69E1-7BCD-40DD-8CE1-1B148F8F7F8B}|BackendReactFinal\\BackendReactFinal.csproj|c:\\users\\aldo.pena\\source\\repos\\backendreactfinal\\backendreactfinal\\model\\entities\\moviegenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341D69E1-7BCD-40DD-8CE1-1B148F8F7F8B}|BackendReactFinal\\BackendReactFinal.csproj|solutionrelative:backendreactfinal\\model\\entities\\moviegenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341D69E1-7BCD-40DD-8CE1-1B148F8F7F8B}|BackendReactFinal\\BackendReactFinal.csproj|c:\\users\\aldo.pena\\source\\repos\\backendreactfinal\\backendreactfinal\\model\\entities\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341D69E1-7BCD-40DD-8CE1-1B148F8F7F8B}|BackendReactFinal\\BackendReactFinal.csproj|solutionrelative:backendreactfinal\\model\\entities\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341D69E1-7BCD-40DD-8CE1-1B148F8F7F8B}|BackendReactFinal\\BackendReactFinal.csproj|c:\\users\\aldo.pena\\source\\repos\\backendreactfinal\\backendreactfinal\\model\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341D69E1-7BCD-40DD-8CE1-1B148F8F7F8B}|BackendReactFinal\\BackendReactFinal.csproj|solutionrelative:backendreactfinal\\model\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "BackendReactFinal\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "BackendReactFinal\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T04:09:05.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenreController.cs",
+              "DocumentMoniker": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\Controllers\\GenreController.cs",
+              "RelativeDocumentMoniker": "BackendReactFinal\\Controllers\\GenreController.cs",
+              "ToolTip": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\Controllers\\GenreController.cs",
+              "RelativeToolTip": "BackendReactFinal\\Controllers\\GenreController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowDkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T04:08:49.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20251010040216_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\Migrations\\20251010040216_InitialMigration.cs",
+              "RelativeDocumentMoniker": "BackendReactFinal\\Migrations\\20251010040216_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\Migrations\\20251010040216_InitialMigration.cs",
+              "RelativeToolTip": "BackendReactFinal\\Migrations\\20251010040216_InitialMigration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T04:02:16.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\Services\\Implementations\\MovieService.cs",
+              "RelativeDocumentMoniker": "BackendReactFinal\\Services\\Implementations\\MovieService.cs",
+              "ToolTip": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\Services\\Implementations\\MovieService.cs",
+              "RelativeToolTip": "BackendReactFinal\\Services\\Implementations\\MovieService.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAIwF4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T03:43:29.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\Program.cs",
+              "RelativeDocumentMoniker": "BackendReactFinal\\Program.cs",
+              "ToolTip": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\Program.cs",
+              "RelativeToolTip": "BackendReactFinal\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwNoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T00:08:51.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenreService.cs",
+              "DocumentMoniker": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\Services\\Implementations\\GenreService.cs",
+              "RelativeDocumentMoniker": "BackendReactFinal\\Services\\Implementations\\GenreService.cs",
+              "ToolTip": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\Services\\Implementations\\GenreService.cs",
+              "RelativeToolTip": "BackendReactFinal\\Services\\Implementations\\GenreService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T03:43:17.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\Services\\Interfaces\\IMovieService.cs",
+              "RelativeDocumentMoniker": "BackendReactFinal\\Services\\Interfaces\\IMovieService.cs",
+              "ToolTip": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\Services\\Interfaces\\IMovieService.cs",
+              "RelativeToolTip": "BackendReactFinal\\Services\\Interfaces\\IMovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T03:38:05.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGenreService.cs",
+              "DocumentMoniker": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\Services\\Interfaces\\IGenreService.cs",
+              "RelativeDocumentMoniker": "BackendReactFinal\\Services\\Interfaces\\IGenreService.cs",
+              "ToolTip": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\Services\\Interfaces\\IGenreService.cs",
+              "RelativeToolTip": "BackendReactFinal\\Services\\Interfaces\\IGenreService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T03:34:46.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MovieResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\Model\\DTOs\\Movie\\MovieResponseDTO.cs",
+              "RelativeDocumentMoniker": "BackendReactFinal\\Model\\DTOs\\Movie\\MovieResponseDTO.cs",
+              "ToolTip": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\Model\\DTOs\\Movie\\MovieResponseDTO.cs",
+              "RelativeToolTip": "BackendReactFinal\\Model\\DTOs\\Movie\\MovieResponseDTO.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA4wB0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T03:25:12.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\Model\\Entities\\Movie.cs",
+              "RelativeDocumentMoniker": "BackendReactFinal\\Model\\Entities\\Movie.cs",
+              "ToolTip": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\Model\\Entities\\Movie.cs",
+              "RelativeToolTip": "BackendReactFinal\\Model\\Entities\\Movie.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T22:57:03.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MovieCatalogResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\Model\\DTOs\\Movie\\MovieCatalogResponseDTO.cs",
+              "RelativeDocumentMoniker": "BackendReactFinal\\Model\\DTOs\\Movie\\MovieCatalogResponseDTO.cs",
+              "ToolTip": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\Model\\DTOs\\Movie\\MovieCatalogResponseDTO.cs",
+              "RelativeToolTip": "BackendReactFinal\\Model\\DTOs\\Movie\\MovieCatalogResponseDTO.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T03:24:34.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GenreUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\Model\\DTOs\\Genre\\GenreUpdateDTO.cs",
+              "RelativeDocumentMoniker": "BackendReactFinal\\Model\\DTOs\\Genre\\GenreUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\Model\\DTOs\\Genre\\GenreUpdateDTO.cs",
+              "RelativeToolTip": "BackendReactFinal\\Model\\DTOs\\Genre\\GenreUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T03:23:29.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BackendReactFinal",
+              "DocumentMoniker": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\BackendReactFinal.csproj",
+              "RelativeDocumentMoniker": "BackendReactFinal\\BackendReactFinal.csproj",
+              "ToolTip": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\BackendReactFinal.csproj",
+              "RelativeToolTip": "BackendReactFinal\\BackendReactFinal.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-09T23:16:04.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\Repositories\\Implementations\\Repository.cs",
+              "RelativeDocumentMoniker": "BackendReactFinal\\Repositories\\Implementations\\Repository.cs",
+              "ToolTip": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\Repositories\\Implementations\\Repository.cs",
+              "RelativeToolTip": "BackendReactFinal\\Repositories\\Implementations\\Repository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T02:50:12.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "BackendReactFinal\\Repositories\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "BackendReactFinal\\Repositories\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T02:45:29.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\appsettings.json",
+              "RelativeDocumentMoniker": "BackendReactFinal\\appsettings.json",
+              "ToolTip": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\appsettings.json",
+              "RelativeToolTip": "BackendReactFinal\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAACPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-10T00:06:10.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Actor.cs",
+              "DocumentMoniker": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\Model\\Entities\\Actor.cs",
+              "RelativeDocumentMoniker": "BackendReactFinal\\Model\\Entities\\Actor.cs",
+              "ToolTip": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\Model\\Entities\\Actor.cs",
+              "RelativeToolTip": "BackendReactFinal\\Model\\Entities\\Actor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T23:04:26.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BackendReactFinal\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "BackendReactFinal\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwCoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T23:16:25.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MovieActor.cs",
+              "DocumentMoniker": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\Model\\Entities\\MovieActor.cs",
+              "RelativeDocumentMoniker": "BackendReactFinal\\Model\\Entities\\MovieActor.cs",
+              "ToolTip": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\Model\\Entities\\MovieActor.cs",
+              "RelativeToolTip": "BackendReactFinal\\Model\\Entities\\MovieActor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T23:12:04.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MovieGenre.cs",
+              "DocumentMoniker": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\Model\\Entities\\MovieGenre.cs",
+              "RelativeDocumentMoniker": "BackendReactFinal\\Model\\Entities\\MovieGenre.cs",
+              "ToolTip": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\Model\\Entities\\MovieGenre.cs",
+              "RelativeToolTip": "BackendReactFinal\\Model\\Entities\\MovieGenre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T23:10:27.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\Model\\Entities\\Rating.cs",
+              "RelativeDocumentMoniker": "BackendReactFinal\\Model\\Entities\\Rating.cs",
+              "ToolTip": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\Model\\Entities\\Rating.cs",
+              "RelativeToolTip": "BackendReactFinal\\Model\\Entities\\Rating.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA3wAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T23:06:19.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\Model\\Entities\\Genre.cs",
+              "RelativeDocumentMoniker": "BackendReactFinal\\Model\\Entities\\Genre.cs",
+              "ToolTip": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\Model\\Entities\\Genre.cs",
+              "RelativeToolTip": "BackendReactFinal\\Model\\Entities\\Genre.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAhwAYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T23:01:49.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\Model\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "BackendReactFinal\\Model\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\aldo.pena\\source\\repos\\BackendReactFinal\\BackendReactFinal\\Model\\Entities\\User.cs",
+              "RelativeToolTip": "BackendReactFinal\\Model\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T22:53:30.7Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
